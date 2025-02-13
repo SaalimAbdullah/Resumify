@@ -1,0 +1,44 @@
+name: resumify
+description: "A new Flutter project."
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+environment:
+  sdk: ^3.5.4
+dependencies:
+
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  open_file : ^3.2.1
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+  cupertino_icons: ^1.0.8
+  firebase_core: ^3.8.0
+  firebase_auth: ^5.3.3
+  shared_preferences: ^2.3.3
+  flutter_gemini: ^3.0.0
+  http: ^1.2.2
+  url_launcher: ^6.3.1
+  provider: ^6.1.2
+  pdf: ^3.10.2 # Replace with the latest version
+  path_provider: ^2.0.14 # To store the PDF temporarily
+  google_generative_ai: ^0.4.6
+  permission_handler: ^10.2.0
+  flutter_pdfview: ^1.3.4
+  open_file: ^3.2.1
+  flutter_launcher_icons: ^0.14.2
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/pictures/Resumify.png
+    - assets/pictures/
+    - assets/Resume/
+    - assets/Images/
+flutter icons:
+  android: true
+  ios: true
+  image_path: "Resumify/assets/pictures/resumify_app_logo.jpg"
+
+

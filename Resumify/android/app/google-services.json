@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1095660976210",
+    "project_id": "resumify-a2c15",
+    "storage_bucket": "resumify-a2c15.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095660976210:android:0ffc4a68680f89f365478b",
+        "android_client_info": {
+          "package_name": "com.example.resumify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDv-ER51wFKLiN3NxpEOBp85fy71-FQjY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
